@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 		<img src="https://user-images.githubusercontent.com/83507719/212129351-b005ce32-1a2c-4237-b993-bae931bf5037.png" alt="bootstrap" width="40" height="40"/> 
 	</a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
 		<img src="https://user-images.githubusercontent.com/83507719/212130370-7815184c-a358-4b92-aa0c-d23ed5c706c4.png" alt="c" width="40" height="40"/> 
 	</a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
