@@ -17,8 +17,17 @@ Here are some ideas to get you started:
 -->
 
 ![MasterHead](https://user-images.githubusercontent.com/83507719/212357484-d5e270e4-f2ee-4529-869d-9a2a79bea8c2.png)
-<h1 align="center">Hi there 👋, I'm Vishal Das - a.k.a <a href="https://github.com/wise-warrior">Wise-Warrior</a></h1>
+<h1 align="center">Hi there 👋, I'm Vishal Das aka wise-warrior</h1>
 <h3 align="center">A passionate frontend developer & a Team Player with an eye for detail !!</h3>
+<h3 align="left">About Me:</h3>
+<p align="justify"> I am currently pursuing Final Year (BTech) in CSE. Navigating through the 🤩 WONDERLAND of Computer Science,
+ exploring various paradigms like Data Structures , Algorithms , Competitive Coding , I've also tasted the 
+ flavour of Development stuff ( Web Dev and Game Dev)🤩. I'm Constantly in a process to add knowledge to my 
+ learning Stack , with 📚 book reading , 🎤 singing and 🎨🖌 sketching being my hobby buddies 😍🔥. The mesmerizing process 
+ of enlivening your ideas and creativity, giving a new and exotic dimension to your imaginations; in the form 
+ of developing projects highly fascinates me 💯🔥😍!! In my 2nd year , when i developed my 1st game 👨‍💻 using pygame & 
+ python , the experience was really overwhelming🤩💯 and this made me start loving development. Now I'm focussing 
+ to sharpen my problem solving skills and also honing my Dev skills. </p> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wise-warrior&label=Profile%20views&color=0e75b6&style=flat" alt="wise-warrior" /> </p>
@@ -32,6 +41,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about DSA , Frontend Web Dev
 
+- 💻 All My Projects are available in this **REPO**
+
 <h3 align="left">My Coding & Social Profiles:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/iamvd/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83507719/212345113-97ace036-c918-46ac-a440-e1dbb707b052.png" alt="linkedinId" height="40" width="40" />	</a>
@@ -39,7 +50,7 @@ Here are some ideas to get you started:
 	<a href="https://auth.geeksforgeeks.org/user/vishaldas521/profile" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83507719/212345193-b3ff02bc-0f4d-4c34-b4f9-7fe1246e30b1.png" alt="gfgId" height="40" width="40" /></a>
 	<a href="https://www.codechef.com/users/vishal_625" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83507719/212345240-5ad6517b-c417-4f6f-801a-0982d30d2db1.png" alt="codechefId" height="40" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools Used By Me:</h3>
 <p align="left"> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 		<img src="https://user-images.githubusercontent.com/83507719/212129351-b005ce32-1a2c-4237-b993-bae931bf5037.png" alt="bootstrap" width="40" height="40"/> 
