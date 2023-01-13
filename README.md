@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://user-images.githubusercontent.com/83507719/212357484-d5e270e4-f2ee-4529-869d-9a2a79bea8c2.png)
 <h1 align="center">Hi there 👋, I'm Vishal Das - a.k.a <a href="https://github.com/wise-warrior">Wise-Warrior</a></h1>
 <h3 align="center">A passionate frontend developer & a Team Player with an eye for detail !!</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wise-warrior&label=Profile%20views&color=0e75b6&style=flat" alt="wise-warrior" /> </p>
 
