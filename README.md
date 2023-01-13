@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <h3 align="left">About Me:</h3>
 <p align="justify"> I am currently pursuing Final Year (BTech) in CSE. Navigating through the 🤩 WONDERLAND of Computer Science,
  exploring various paradigms like Data Structures , Algorithms , Competitive Coding , I've also tasted the 
- flavour of Development stuff ( Web Dev and Game Dev)🤩. I'm Constantly in a process to add knowledge to my 
- learning Stack , with 📚 book reading , 🎤 singing and 🎨🖌 sketching being my hobby buddies 😍🔥. The mesmerizing process 
+ flavour of Development stuff (Web Dev and Game Dev)🤩. I'm Constantly in a process to add knowledge to my 
+ learning Stack, with 📚 book reading, 🎤 singing and 🎨🖌 sketching being my hobby buddies 😍🔥. The mesmerizing process 
  of enlivening your ideas and creativity, giving a new and exotic dimension to your imaginations; in the form 
- of developing projects highly fascinates me 💯🔥😍!! In my 2nd year , when i developed my 1st game 👨‍💻 using pygame & 
- python , the experience was really overwhelming🤩💯 and this made me start loving development. Now I'm focussing 
- to sharpen my problem solving skills and also honing my Dev skills. </p> 
+ of developing projects highly fascinates me 💯🔥😍!! In my 2nd year , when I developed my 1st game 👨‍💻 using pygame & 
+ python , the experience was really overwhelming🤩💯 and this made me start loving 🤎 development. Now I'm focussing 
+ to sharpen my problem solving skills and also honing my Dev skills 👨‍💻😎🔥💯</p> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wise-warrior&label=Profile%20views&color=0e75b6&style=flat" alt="wise-warrior" /> </p>
