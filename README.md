@@ -117,6 +117,11 @@ Here are some ideas to get you started:
 		<img src="https://user-images.githubusercontent.com/83507719/212352343-909b7c6d-7d76-408f-b1dd-0edbbc02d4e8.png" alt="jupyter" width="40" height="40"/> 
 	</a>
 	<a href="https://www.geeksforgeeks.org/eclipse-ide-for-enterprise-java-and-web-developers/" target="_blank" rel="noreferrer"> 
-		<img src="https://user-images.githubusercontent.com/83507719/212352699-a7aaa52a-fbe4-4818-835a-82cb38ca987e.png" alt="eclipse" width="40" height="40"/> 
+		<img src="https://user-images.githubusercontent.com/83507719/212352699-a7aaa52a-fbe4-4818-835a-82cb38ca987e.png" alt="eclipse" width="40" height="40"/>
+	<a href="https://www.geeksforgeeks.org/introduction-and-installation-of-heroku-cli-on-windows-machine/" target="_blank" rel="noreferrer"> 
+		<img src="https://user-images.githubusercontent.com/83507719/212477155-1ab5b090-1497-404b-8629-64ac074fc6bc.png" alt="heroku" width="40" height="40"/>
+	</a>
+	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+		<img src="https://user-images.githubusercontent.com/83507719/212477207-393c13d1-7a26-43e7-8ec5-b49232534c32.png" alt="eclipse" width="40" height="40"/>
 	</a>
  </p>
