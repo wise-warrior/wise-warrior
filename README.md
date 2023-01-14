@@ -28,7 +28,10 @@ Here are some ideas to get you started:
  of developing projects highly fascinates me 💯🔥😍!! In my 2nd year , when I developed my 1st game 👨‍💻 using pygame & 
  python , the experience was really overwhelming🤩💯 and this made me start loving 🤎 development. Now I'm focussing 
  to sharpen my problem solving skills and also honing my Dev skills 👨‍💻😎🔥💯</p> 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wise-warrior&label=Profile%20views&color=0e75b6&style=flat" alt="wise-warrior" /> </p>
 
